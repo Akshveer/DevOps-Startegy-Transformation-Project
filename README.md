@@ -42,8 +42,6 @@ propose a more efficient and reliable technical environment.
 #   This project explores the complete transformation of a company from manual processes to an agile and DevOps-driven environment.
 
 
-# Skills Demonstrated
-
 
 # Author
 
